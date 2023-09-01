@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+python-telegram-bot = "==13.7.0"
+openai = "*"
+python-dotenv = "*"
+flask = "*"
+pinecone-client = "*"
+beautifulsoup4 = "*"
+unstructured = "*"
+pypdf = "*"
+tiktoken = "*"
+faiss-cpu = "*"
+docx2txt = "*"
+docx = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.5"

@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+openai
+langchain==0.0.190
+black
+pypdf
+tiktoken
+pinecone
+unstructured
+beautifulsoup
+python-telegram-bot==13.7.0
+faiss-cpu
+faiss-gpu
+docx2txt
+=======
+openai
+langchain==0.0.190
+black
+pypdf
+tiktoken
+pinecone
+unstructured
+beautifulsoup
+python-telegram-bot==13.7.0
+faiss-cpu
+faiss-gpu
+docx2txt
+>>>>>>> 46136b5b1e138d910cb9b03bf2f2e08b619929e4
+docx
